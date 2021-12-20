@@ -2,19 +2,19 @@
   {
   "product": "gayo coffee",
   "variety": "arabica",
-  "grade": "4a",
+  "grade": "specialty",
   "origin": "aceh sumatera"
   },
   {
     "product": "lampung coffee",
     "variety": "robusta",
-    "grade": "4a",
+    "grade": "fine robusta",
     "origin": "lampung barat"
     },
   {
-    "product": "lampung coffee",
+    "product": "temanggung coffee",
     "variety": "robusta",
-    "grade": "4a",
-    "origin": "lampung"
+    "grade": "grade 1",
+    "origin": "java temangggung"
   }
 ]
