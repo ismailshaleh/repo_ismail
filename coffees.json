@@ -1,0 +1,20 @@
+[
+  {
+  "product": "gayo coffee",
+  "variety": "arabica",
+  "grade": "4a",
+  "origin": "aceh sumatera"
+  },
+  {
+    "product": "lampung coffee",
+    "variety": "robusta",
+    "grade": "4a",
+    "origin": "lampung barat"
+    },
+  {
+    "product": "lampung coffee",
+    "variety": "robusta",
+    "grade": "4a",
+    "origin": "lampung"
+  }
+]
