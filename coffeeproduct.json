@@ -16,5 +16,17 @@
     "variety": "robusta",
     "grade": "grade 1",
     "origin": "java temangggung"
+  },
+  {
+    "product": "toraja coffee",
+    "variety": "arabica",
+    "grade": "grade 1",
+    "origin": "tana toraja"
+  },
+  {
+    "product": "java coffee",
+    "variety": "robusta",
+    "grade": "grade 1",
+    "origin": "west java"
   }
 ]
